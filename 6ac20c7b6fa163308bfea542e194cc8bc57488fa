@@ -1,0 +1,11 @@
+{
+  "built_on": "master",
+  "duration": 156.867,
+  "full_display_name": "bubz-master #3",
+  "id": "2012-06-18_19-26-19",
+  "number": 3,
+  "result": "FAILURE",
+  "status_message": "broken for a long time",
+  "time": "2012-06-18 19:26:19 -0400",
+  "url": "job/bubz-master/3/"
+}
