@@ -1,3 +1,5 @@
+![Bubz](http://www.hrwiki.org/w/images/thumb/9/93/newestbubs.png/220px-newestbubs.png)
+
 Bubz
 ====
 
