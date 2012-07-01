@@ -1,5 +1,3 @@
-![Bubz](http://i.qkme.me/3pwxq0.jpg)
-
 Bubz
 ====
 
