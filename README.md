@@ -18,4 +18,3 @@ Why Bubz?
 --------
 
 Well, if a "web log" is a blog, then a "web stub" should be a bub, right?
-
