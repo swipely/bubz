@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 15.14,
-  "full_display_name": "gem.bubz #2 - master",
-  "id": "2013-06-12_12-43-14",
-  "number": 2,
-  "result": "UNSTABLE",
+  "duration": 9.928,
+  "full_display_name": "app.grs_integration #50 - master",
+  "id": "2013-06-12_12-43-19",
+  "number": 50,
+  "result": "FAILURE",
   "status_message": "?",
-  "time": "2013-06-12 12:43:14 -0400",
-  "url": "job/gem.bubz/2/"
+  "time": "2013-06-12 12:43:19 -0400",
+  "url": "job/app.grs_integration/50/"
 }
