@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 3.838,
-  "full_display_name": "app.scrobbler #55 - master",
-  "id": "2013-12-29_06-06-48",
-  "number": 55,
+  "duration": 3.887,
+  "full_display_name": "app.scrobbler #58 - master",
+  "id": "2014-01-01_06-06-47",
+  "number": 58,
   "result": "FAILURE",
   "status_message": "?",
-  "time": "2013-12-29 06:06:48 -0500",
-  "url": "job/app.scrobbler/55/"
+  "time": "2014-01-01 06:06:47 -0500",
+  "url": "job/app.scrobbler/58/"
 }
