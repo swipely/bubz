@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 67.277,
-  "full_display_name": "gem.bubz #112 - master",
-  "id": "2014-03-15_06-06-50",
-  "number": 112,
+  "duration": 67.895,
+  "full_display_name": "app.scrobbler #301 - master",
+  "id": "2014-03-20_06-06-45",
+  "number": 301,
   "result": "FAILURE",
   "status_message": "?",
-  "time": "2014-03-15 06:06:50 -0400",
-  "url": "job/gem.bubz/112/"
+  "time": "2014-03-20 06:06:45 -0400",
+  "url": "job/app.scrobbler/301/"
 }
