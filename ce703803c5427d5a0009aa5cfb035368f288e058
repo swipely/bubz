@@ -1,11 +1,11 @@
 {
-  "built_on": "windows B",
-  "duration": 67.409,
-  "full_display_name": "app.scrobbler #693 - master",
-  "id": "2014-07-22_06-06-39",
-  "number": 693,
+  "built_on": "master",
+  "duration": 68.256,
+  "full_display_name": "gem.bubz #234 - master",
+  "id": "2014-07-22_06-06-38",
+  "number": 234,
   "result": "FAILURE",
   "status_message": "?",
-  "time": "2014-07-22 06:06:39 -0400",
-  "url": "job/app.scrobbler/693/"
+  "time": "2014-07-22 06:06:38 -0400",
+  "url": "job/gem.bubz/234/"
 }
