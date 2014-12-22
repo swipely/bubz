@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 72.046999945,
-  "full_display_name": "gem.bubz #373 - master",
-  "id": "2014-12-22_06-07-10",
-  "number": 373,
+  "duration": 127.679999994,
+  "full_display_name": "gem.bubz #4 - jenkins-testing",
+  "id": "2014-12-22_17-03-04",
+  "number": 4,
   "result": "FAILURE",
   "status_message": "?",
-  "time": "2014-12-22 06:07:10 -0500",
-  "url": "job/gem.bubz/373/"
+  "time": "2014-12-22 17:03:04 +0000",
+  "url": "job/gem.bubz/4/"
 }
