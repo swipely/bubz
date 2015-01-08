@@ -1,0 +1,11 @@
+{
+  "built_on": "master",
+  "duration": 188.934000006,
+  "full_display_name": "gem.bubz #3 - jenkins-testing",
+  "id": "2015-01-08_10-04-59",
+  "number": 3,
+  "result": "SUCCESS",
+  "status_message": "?",
+  "time": "2015-01-08 10:04:59 -0500",
+  "url": "job/gem.bubz/3/"
+}
