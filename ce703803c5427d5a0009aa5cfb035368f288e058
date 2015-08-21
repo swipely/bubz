@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 0.415000034,
-  "full_display_name": "gem.bubz #48 - master",
-  "id": "2015-08-20_06-06-46",
-  "number": 48,
+  "duration": 0.450999962,
+  "full_display_name": "gem.bubz #49 - master",
+  "id": "2015-08-21_06-06-46",
+  "number": 49,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2015-08-20 06:06:46 -0400",
-  "url": "job/gem.bubz/48/"
+  "time": "2015-08-21 06:06:46 -0400",
+  "url": "job/gem.bubz/49/"
 }
