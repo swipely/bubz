@@ -1,11 +1,11 @@
 {
   "built_on": "master",
-  "duration": 10.589999964,
-  "full_display_name": "gem.bubz #4 - master",
-  "id": "2016-02-15_06-06-30",
-  "number": 4,
+  "duration": 0.528000046,
+  "full_display_name": "gem.cover_prediction #8 - master",
+  "id": "8",
+  "number": 8,
   "result": "SUCCESS",
   "status_message": "?",
-  "time": "2016-02-15 06:06:30 -0500",
-  "url": "job/gem.bubz/4/"
+  "time": "2016-02-16 06:06:12 -0500",
+  "url": "job/gem.cover_prediction/8/"
 }
